@@ -5,7 +5,6 @@ A control system circuit designed for a code-breaking game inspired by Master Mi
 
 ## 1
 <img width="1005" height="855" alt="rdd" src="https://github.com/user-attachments/assets/1b35aafb-6097-42d6-a7fe-93f1d60d6d82" />
-![3D_view](https://github.com/user-attachments/assets/1b35aafb-6097-42d6-a7fe-93f1d60d6d82)
 
 ## 2
 <img width="1414" height="2000" alt="1" src="https://github.com/user-attachments/assets/a64afee8-36c1-41f5-b93c-9f272e6478fe" />
